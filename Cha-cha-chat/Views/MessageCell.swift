@@ -1,10 +1,4 @@
-//
-//  MessageCell.swift
-//  Flash Chat iOS13
-//
-//  Created by Ergasheva Shakhrizoda on 30/06/22.
-//  Copyright © 2022 Angela Yu. All rights reserved.
-//
+
 
 import UIKit
 

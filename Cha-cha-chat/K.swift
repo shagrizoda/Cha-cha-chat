@@ -1,11 +1,3 @@
-//
-//  K.swift
-//  Flash Chat iOS13
-//
-//  Created by Ergasheva Shakhrizoda on 29/06/22.
-//  Copyright © 2022 Angela Yu. All rights reserved.
-//
-
 struct K {
     static let cellIdentifier = "ReusableCell"
     static let cellNibName = "MessageCell"
