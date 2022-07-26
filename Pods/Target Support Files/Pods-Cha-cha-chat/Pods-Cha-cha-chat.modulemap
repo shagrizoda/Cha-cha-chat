@@ -1,0 +1,6 @@
+framework module Pods_Cha_cha_chat {
+  umbrella header "Pods-Cha-cha-chat-umbrella.h"
+
+  export *
+  module * { export * }
+}
